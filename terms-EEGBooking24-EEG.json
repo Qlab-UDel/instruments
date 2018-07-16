@@ -1,0 +1,56 @@
+{
+  "DictionaryID": "64fa1ed7-8630-4dd2-b038-719b73de7358",
+  "shortName": "EEG Booking24",
+  "DerivedFrom": "",
+  "Name": "EEG Booking",
+  "Description": "EEG booking, confirmation email, reminder email",
+  "title": "EEG Booking",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1531745845166",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1531745845166",
+      "description": "EEG + assessments session booked?",
+      "valueRange": null,
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1531745849119",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1531745849119",
+      "description": "Confirmation email sent?",
+      "valueRange": [],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1531745847545",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1531745847545",
+      "description": "Reminder email sent?",
+      "valueRange": null,
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
