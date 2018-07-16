@@ -1,0 +1,26 @@
+{
+  "DictionaryID": "213ef72a-9b76-4bb0-8704-e35f83b8a908",
+  "shortName": "Send online experiment17",
+  "DerivedFrom": "",
+  "Name": "Send online experiment",
+  "Description": "Send online experiment to participant",
+  "title": "Send online experiment",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1531763318334",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1531763318334",
+      "description": "Experiment sent?",
+      "valueRange": null,
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
