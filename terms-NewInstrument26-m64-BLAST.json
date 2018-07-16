@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "c840edc9-d1f8-4f5a-bd18-73ac24f1dd72",
+  "shortName": "New Instrument26-m64",
+  "DerivedFrom": "New Instrument26-m60",
+  "Name": "BLAST Screener",
+  "Description": "BLAST Qualtrics screener form",
+  "title": "BLAST Screener",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1521115305343",
+      "required": "Required",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1521115305343",
+      "renderType": "radio",
+      "description": "Complete",
+      "valueRange": [
+        "No",
+        "Yes"
+      ],
+      "notes": null
+    }
+  ]
+}
