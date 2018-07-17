@@ -1,0 +1,45 @@
+{
+  "DictionaryID": "208e3785-d998-4c2d-b5d6-8c58b8bea1e3",
+  "shortName": "ctopp01-m16",
+  "DerivedFrom": "ctopp01-m26",
+  "Name": "CTOPP",
+  "Description": "Elision, Blending Words, and Nonword Repetition",
+  "title": "CTOPP",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1521116902437",
+      "required": "Required",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 11,
+      "dataElementId": 11,
+      "name": "new1521116902437",
+      "renderType": "radio",
+      "description": "Administration Complete?",
+      "valueRange": [
+        "No",
+        "Yes"
+      ],
+      "notes": null
+    },
+    {
+      "id": 7194,
+      "required": "Recommended",
+      "condition": null,
+      "aliases": [
+        "CTOPcmnt"
+      ],
+      "filterElement": null,
+      "position": 115,
+      "name": "comments",
+      "type": "String",
+      "renderType": "text",
+      "size": 4000,
+      "description": "Comments about assessment",
+      "valueRange": null,
+      "notes": null
+    }
+  ]
+}
