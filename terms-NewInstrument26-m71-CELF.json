@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "0f8b3413-6c7f-4526-a399-711e2f9d0d81",
+  "shortName": "New Instrument26-m71",
+  "DerivedFrom": "New Instrument26-m25",
+  "Name": "CELF 5 Screening Test",
+  "Description": "Clinical Evaluation of Language Fundmentals Screening Test",
+  "title": "CELF 5 Screening Test",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1521117397077",
+      "required": "Required",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1521117397077",
+      "renderType": "radio",
+      "description": "Administration complete",
+      "valueRange": [
+        "No",
+        "Yes"
+      ],
+      "notes": null
+    }
+  ]
+}
