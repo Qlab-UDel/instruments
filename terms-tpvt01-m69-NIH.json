@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "9799de2a-54f4-475b-ba7e-132f6774bb13",
+  "shortName": "tpvt01-m69",
+  "DerivedFrom": "tpvt01-m35",
+  "Name": "NIH Toolbox Picture Vocabulary",
+  "Description": "NIH Toolbox Picture Vocabulary",
+  "title": "NIH Toolbox Picture Vocabulary",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1522273541772",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 7,
+      "dataElementId": 7,
+      "name": "new1522273541772",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Administration Complete?",
+      "valueRange": [
+        "Administration Complete?"
+      ],
+      "notes": null
+    }
+  ]
+}
