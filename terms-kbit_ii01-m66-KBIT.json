@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "279bea7f-53f9-4223-8b48-7b9698e1a255",
+  "shortName": "kbit_ii01-m66",
+  "DerivedFrom": "kbit_ii01-m30",
+  "Name": "KBIT",
+  "Description": "Raw and Standard Scores",
+  "title": "KBIT",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1522274101404",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 15,
+      "dataElementId": 15,
+      "name": "new1522274101404",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Administration Complete?",
+      "valueRange": [
+        "Yes"
+      ],
+      "notes": null
+    }
+  ]
+}
