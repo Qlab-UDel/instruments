@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "f116ee3e-f5c7-4e40-aaf9-c39dd1936d8d",
+  "shortName": "flanker01-m92",
+  "DerivedFrom": "flanker01-m46",
+  "Name": "NIH Toolbox Flanker Test",
+  "Description": "NIH Toolbox Flanker Test",
+  "title": "NIH Toolbox Flanker Test",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1522274966045",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 8,
+      "dataElementId": 8,
+      "name": "new1522274966045",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Administration Complete?",
+      "valueRange": [
+        "Yes"
+      ],
+      "notes": null
+    }
+  ]
+}
