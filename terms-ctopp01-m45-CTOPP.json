@@ -1,0 +1,45 @@
+{
+  "DictionaryID": "f45a948a-44ee-4f63-a523-ee7e2ba7b46b",
+  "shortName": "ctopp01-m45",
+  "DerivedFrom": "ctopp01-m16",
+  "Name": "CTOPP — old",
+  "Description": "This version's content deos not appear in data collection mode",
+  "title": "CTOPP — old",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1521116902437",
+      "required": "Required",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 11,
+      "dataElementId": 11,
+      "name": "new1521116902437",
+      "renderType": "radio",
+      "description": "Administration Complete?",
+      "valueRange": [
+        "No",
+        "Yes"
+      ],
+      "notes": null
+    },
+    {
+      "id": 7194,
+      "required": "Recommended",
+      "condition": null,
+      "aliases": [
+        "CTOPcmnt"
+      ],
+      "filterElement": null,
+      "position": 115,
+      "name": "comments",
+      "type": "String",
+      "renderType": "text",
+      "size": 4000,
+      "description": "Comments about assessment",
+      "valueRange": null,
+      "notes": null
+    }
+  ]
+}
