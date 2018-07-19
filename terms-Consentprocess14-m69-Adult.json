@@ -1,0 +1,60 @@
+{
+  "DictionaryID": "a1a4a0bf-de60-416c-ac60-70ff7d1749f0",
+  "shortName": "Consent process14-m69",
+  "DerivedFrom": "Consent process14-m11",
+  "Name": "Adult consent process",
+  "Description": "Was the consent process completed?",
+  "title": "Adult consent process",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1522282375855",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1522282375855",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "QLAB Consent Form",
+      "valueRange": [
+        "Complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532040193888",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532040193888",
+      "renderType": "radio",
+      "description": "LRR Consent Form",
+      "valueRange": [
+        "Complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532040085445",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532040085445",
+      "renderType": "radio",
+      "description": "LRR Optional Update to the Registry",
+      "valueRange": [
+        "Complete"
+      ],
+      "notes": null
+    }
+  ]
+}
