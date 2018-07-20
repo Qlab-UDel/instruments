@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "81092180-2561-471a-a3d2-76f95fc08a25",
+  "shortName": "Phone screener61",
+  "DerivedFrom": "",
+  "Name": "Phone screener",
+  "Description": "Phone screener",
+  "title": "Phone screener",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532058509937",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532058509937",
+      "description": "Phone screener",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
