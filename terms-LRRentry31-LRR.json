@@ -1,0 +1,29 @@
+{
+  "DictionaryID": "54884c25-9a09-4183-9254-d43171a24fdf",
+  "shortName": "LRR di-identified data entry31",
+  "DerivedFrom": "",
+  "Name": "LRR di-identified data entry",
+  "Description": "LRR di-identified data entry",
+  "title": "LRR di-identified data entry",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532055237033",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532055237033",
+      "description": "Assessment scores",
+      "valueRange": [
+        "entered",
+        "not entered, no consent given"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
