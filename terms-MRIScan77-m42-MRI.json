@@ -1,0 +1,296 @@
+{
+  "DictionaryID": "587a4b2e-7549-4dc2-af9d-c085e5214e1d",
+  "shortName": "MRI Scan77-m42",
+  "DerivedFrom": "MRI Scan77",
+  "Name": "MRI Scan",
+  "Description": "MRI Scan",
+  "title": "MRI Scan",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532052854424",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532052854424",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "AAHScout",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052876916",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532052876916",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Field mapping 2.4mm",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052899842",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532052899842",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Ep2d_bold_sms_abcd",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052923578",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 4,
+      "dataElementId": 4,
+      "name": "new1532052923578",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "T1w_MPR_vNav_setter",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052944500",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 5,
+      "dataElementId": 5,
+      "name": "new1532052944500",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "T1w_MPR_vNav",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052973890",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 6,
+      "dataElementId": 6,
+      "name": "new1532052973890",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "T2w_SPC_vNav_setter",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052996898",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 7,
+      "dataElementId": 7,
+      "name": "new1532052996898",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "T2w_SPC_vNav",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053025149",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 8,
+      "dataElementId": 8,
+      "name": "new1532053025149",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Field mapping 3mm",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053063711",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 9,
+      "dataElementId": 9,
+      "name": "new1532053063711",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Language localizer 1",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053095423",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 10,
+      "dataElementId": 10,
+      "name": "new1532053095423",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Language localizer 2",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053142251",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 11,
+      "dataElementId": 11,
+      "name": "new1532053142251",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Field_mapping_2.5mm",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053176817",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 12,
+      "dataElementId": 12,
+      "name": "new1532053176817",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "VSL Tasks",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053207789",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 13,
+      "dataElementId": 13,
+      "name": "new1532053207789",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "ASL tasks",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053301689",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 14,
+      "dataElementId": 14,
+      "name": "new1532053301689",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "ep2d_diff_sms_abcd_pa",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053384731",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 15,
+      "dataElementId": 15,
+      "name": "new1532053384731",
+      "type": "boolean",
+      "renderType": "checkbox",
+      "description": "ep2d_diff_sms_abcd_ap",
+      "valueRange": null,
+      "notes": null
+    },
+    {
+      "id": "new1532053366365",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 16,
+      "dataElementId": 16,
+      "name": "new1532053366365",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "ep2d_diff_sms_abcd",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532053583632",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 17,
+      "dataElementId": 17,
+      "name": "new1532053583632",
+      "type": "string",
+      "renderType": "text",
+      "description": "Notes",
+      "valueRange": null,
+      "notes": null
+    }
+  ]
+}
