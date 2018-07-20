@@ -1,0 +1,83 @@
+{
+  "DictionaryID": "0e1d7f89-e3e5-4953-8839-563ea977ad67",
+  "shortName": "Child online experiment63",
+  "DerivedFrom": "",
+  "Name": "Invitation to online experiment",
+  "Description": "Invitation to online experiment",
+  "title": "Invitation to online experiment",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532057818008",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532057818008",
+      "description": "SPARK initial email",
+      "valueRange": [
+        "sent",
+        "not SPARK"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532057892584",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532057892584",
+      "description": "4-day reminder email",
+      "valueRange": [
+        "sent",
+        "not needed; completed before 4-day mark"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532057930938",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532057930938",
+      "description": "7-day reminder email",
+      "valueRange": [
+        "sent",
+        "not needed; completed before 7-day mark"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532057983018",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 4,
+      "dataElementId": 4,
+      "name": "new1532057983018",
+      "description": "Reminder call",
+      "valueRange": [
+        "called",
+        "completed without phone call"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
