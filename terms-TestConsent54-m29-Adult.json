@@ -1,0 +1,45 @@
+{
+  "DictionaryID": "19658c03-165a-46c8-9bee-b134fc842351",
+  "shortName": "Test Adult Consent54-m29",
+  "DerivedFrom": "Test Adult Consent54-m89",
+  "Name": "Adult Consent",
+  "Description": "test",
+  "title": "Adult Consent",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532047703553",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532047703553",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "QLAB adult consent form",
+      "valueRange": [
+        "test"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532047859186",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532047859186",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "LRR adult consent form",
+      "valueRange": [
+        "test wrench then lines"
+      ],
+      "notes": null
+    }
+  ]
+}
