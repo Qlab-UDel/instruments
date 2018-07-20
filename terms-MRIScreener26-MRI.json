@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "7add7a37-89dd-4f0e-9bc8-d206f0ac9bb0",
+  "shortName": "MRI Safety Screener26",
+  "DerivedFrom": "",
+  "Name": "MRI Safety Screener",
+  "Description": "CBBI MRI Safety Screener",
+  "title": "MRI Safety Screener",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532052766057",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532052766057",
+      "description": "MRI Safety Screener",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
