@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "80220654-b249-460b-ba6a-47cd56f12f98",
+  "shortName": "Adult Consent test69",
+  "DerivedFrom": "",
+  "Name": "Adult Consent test",
+  "Description": "Adult Consent test",
+  "title": "Adult Consent test",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532048880022",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532048880022",
+      "description": "BLAST adult consent form",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
