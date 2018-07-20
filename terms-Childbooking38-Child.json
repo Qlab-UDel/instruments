@@ -1,0 +1,117 @@
+{
+  "DictionaryID": "90c391ee-0ec5-475b-a460-35ae69e4fbd2",
+  "shortName": "Child EEG booking38",
+  "DerivedFrom": "",
+  "Name": "Child EEG booking",
+  "Description": "Child EEG booking",
+  "title": "Child EEG booking",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532058548413",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532058548413",
+      "description": "EEG scheduled",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532058571125",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532058571125",
+      "description": "Hotel booking",
+      "valueRange": [
+        "booked",
+        "not needed"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532058622212",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532058622212",
+      "description": "Testing room booked",
+      "valueRange": [
+        "booked"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532058655140",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 4,
+      "dataElementId": 4,
+      "name": "new1532058655140",
+      "description": "SPARK confirmation email",
+      "valueRange": [
+        "sent",
+        "NA (not SPARK)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532058713596",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 5,
+      "dataElementId": 5,
+      "name": "new1532058713596",
+      "description": "EEG confirmation email",
+      "valueRange": [
+        "sent",
+        "NA (recruited through SPARK)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532058816150",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 6,
+      "dataElementId": 6,
+      "name": "new1532058816150",
+      "description": "EEG reminder email sent",
+      "valueRange": [
+        "sent",
+        "NA (recruited through SPARK)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
