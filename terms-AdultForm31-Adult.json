@@ -1,0 +1,26 @@
+{
+  "DictionaryID": "76a1acf2-1939-49f3-9464-08da63b9d7f6",
+  "shortName": "Adult Screening Form31",
+  "DerivedFrom": "",
+  "Name": "Adult Screening Form",
+  "Description": "BLAST adult screening form on Qualtrics",
+  "title": "Adult Screening Form",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532046086882",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532046086882",
+      "description": "Complete",
+      "valueRange": null,
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
