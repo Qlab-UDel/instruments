@@ -1,0 +1,64 @@
+{
+  "DictionaryID": "53252a59-348d-4ec7-a34e-8bc531f13686",
+  "shortName": "Adult consent process89",
+  "DerivedFrom": "",
+  "Name": "Adult consent process",
+  "Description": "BLAST adult consent form, LRR consent form, LRR update form\n",
+  "title": "Adult consent process",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532049197470",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532049197470",
+      "description": "BLAST adult consent form",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532049230096",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532049230096",
+      "description": "LRR consent form",
+      "valueRange": [
+        "declined",
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532049307971",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532049307971",
+      "description": "LRR update form",
+      "valueRange": [
+        "declined",
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
