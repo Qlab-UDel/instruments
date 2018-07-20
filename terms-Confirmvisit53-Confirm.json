@@ -1,0 +1,62 @@
+{
+  "DictionaryID": "97c19e2b-a379-4a8b-9031-01867b87072c",
+  "shortName": "Confirm MRI visit53",
+  "DerivedFrom": "",
+  "Name": "Confirm MRI visit",
+  "Description": "Confirm MRI visit",
+  "title": "Confirm MRI visit",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532052430143",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532052430143",
+      "description": "Confirm scanner availability",
+      "valueRange": [
+        "operator confirmed"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532052502735",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532052502735",
+      "description": "MRI confirmation email",
+      "valueRange": [
+        "sent"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532052525581",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532052525581",
+      "description": "MRI reminder email",
+      "valueRange": [
+        "sent"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
