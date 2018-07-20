@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "8232d9c6-8aa3-4734-a7ee-d24bf87d5971",
+  "shortName": "CTOPP87",
+  "DerivedFrom": "",
+  "Name": "CTOPP",
+  "Description": "Comprehensive Test of Phonological Processing (CTOPP)",
+  "title": "CTOPP",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532050036064",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532050036064",
+      "description": "CTOPP",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
