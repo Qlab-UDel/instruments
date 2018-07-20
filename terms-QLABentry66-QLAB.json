@@ -1,0 +1,62 @@
+{
+  "DictionaryID": "1a3670f1-2d88-434f-9726-897208421947",
+  "shortName": "QLAB data entry66",
+  "DerivedFrom": "",
+  "Name": "QLAB data entry",
+  "Description": "QLAB data entry",
+  "title": "QLAB data entry",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532054961458",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532054961458",
+      "description": "Assessments battery sheet",
+      "valueRange": [
+        "entered"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532054995856",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532054995856",
+      "description": "EEG run notes",
+      "valueRange": [
+        "entered"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532055024183",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532055024183",
+      "description": "MRI run notes",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
