@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "48413a43-4f53-4503-b394-928be4c0e523",
+  "shortName": "Test Adult Consent54-m56",
+  "DerivedFrom": "Test Adult Consent54",
+  "Name": "Test Adult Consent",
+  "Description": "test",
+  "title": "Test Adult Consent",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532047703553",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532047703553",
+      "description": "New checkbox",
+      "valueRange": [
+        "test"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
