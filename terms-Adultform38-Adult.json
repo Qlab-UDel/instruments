@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "b27bfc74-8069-4749-937d-93a66e929b63",
+  "shortName": "Adult consent form38",
+  "DerivedFrom": "",
+  "Name": "Adult consent form",
+  "Description": "Adult consent form",
+  "title": "Adult consent form",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532049001339",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532049001339",
+      "description": "meep",
+      "valueRange": [
+        "meep"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
