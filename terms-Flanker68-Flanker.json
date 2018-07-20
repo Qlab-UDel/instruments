@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "97af3acb-c1e0-48d3-8180-064769c8dbef",
+  "shortName": "Flanker68",
+  "DerivedFrom": "",
+  "Name": "Flanker",
+  "Description": "NIH Toolbox flanker task",
+  "title": "Flanker",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532050404309",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532050404309",
+      "description": "Flanker",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
