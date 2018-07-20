@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "1bd6d150-3f64-4f05-993a-5ecf94394431",
+  "shortName": "Visuo-spatial working memory task46",
+  "DerivedFrom": "",
+  "Name": "Visuo-spatial working memory task",
+  "Description": "Visuo-spatial working memory task",
+  "title": "Visuo-spatial working memory task",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532050572978",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532050572978",
+      "description": "Visuo-spatial working memory task",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
