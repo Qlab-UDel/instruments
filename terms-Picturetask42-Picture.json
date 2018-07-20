@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "4e73f402-141b-4273-a5bd-0ce8aa09613a",
+  "shortName": "Picture vocabulary task42",
+  "DerivedFrom": "",
+  "Name": "Picture vocabulary task",
+  "Description": "Picture vocabulary task",
+  "title": "Picture vocabulary task",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532050529446",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532050529446",
+      "description": "Picture vocabulary task",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
