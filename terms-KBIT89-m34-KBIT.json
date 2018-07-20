@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "9aefeecd-22e9-4d5d-b321-09517dd707a4",
+  "shortName": "KBIT89-m34",
+  "DerivedFrom": "KBIT89",
+  "Name": "KBIT",
+  "Description": "Kaufman Brief Intelligence Test",
+  "title": "KBIT",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532050089488",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532050089488",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "KBIT",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    }
+  ]
+}
