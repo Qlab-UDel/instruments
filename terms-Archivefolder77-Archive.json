@@ -1,0 +1,130 @@
+{
+  "DictionaryID": "d2310058-2a48-4569-bb1b-a2f0c465a131",
+  "shortName": "Archive data and folder77",
+  "DerivedFrom": "",
+  "Name": "Archive data and folder",
+  "Description": "Archive data and folder",
+  "title": "Archive data and folder",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532055400468",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532055400468",
+      "description": "Assessments raw data on NAS",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532055376094",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532055376094",
+      "description": "EEG raw data on NAS",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532055445418",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532055445418",
+      "description": "EEG log files on NAS",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532055474174",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 4,
+      "dataElementId": 4,
+      "name": "new1532055474174",
+      "description": "MRI behavioral data on NAS",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532055503268",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 5,
+      "dataElementId": 5,
+      "name": "new1532055503268",
+      "description": "MRI dicoms on NAS",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532055561972",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 6,
+      "dataElementId": 6,
+      "name": "new1532055561972",
+      "description": "Consent form in file cabinet",
+      "valueRange": [
+        "filed"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532055525532",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 7,
+      "dataElementId": 7,
+      "name": "new1532055525532",
+      "description": "Participant folder in file cabinet",
+      "valueRange": [
+        "filed"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
