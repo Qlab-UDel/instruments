@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "3954d8cb-be5b-4055-88d2-8249da158405",
+  "shortName": "Consent process53-m23",
+  "DerivedFrom": "Consent process53-m52",
+  "Name": "Consent process",
+  "Description": "BLAST consent, LRR consent, LRR optional update",
+  "title": "Consent process",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532047438482",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532047438482",
+      "description": "New checkbox",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
