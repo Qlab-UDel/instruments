@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "5742fde0-e746-4638-8cea-4b6994df7768",
+  "shortName": "SRS34",
+  "DerivedFrom": "",
+  "Name": "SRS",
+  "Description": "Social responsiveness scale",
+  "title": "SRS",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new123",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new123",
+      "description": "SRS",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "string",
+      "renderType": "text",
+      "notes": null
+    }
+  ]
+}
