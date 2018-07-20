@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "28d325e0-f2a4-4e02-b259-da9081613d1e",
+  "shortName": "EEG preparation11",
+  "DerivedFrom": "",
+  "Name": "EEG preparation",
+  "Description": "EEG preparation",
+  "title": "EEG preparation",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532052112637",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532052112637",
+      "description": "EEG preparation",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
