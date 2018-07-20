@@ -1,0 +1,29 @@
+{
+  "DictionaryID": "6118b450-6f1d-46cf-9310-4ad9bbe03591",
+  "shortName": "Send giftcard80",
+  "DerivedFrom": "",
+  "Name": "Send giftcard",
+  "Description": "Send giftcard",
+  "title": "Send giftcard",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532058417167",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532058417167",
+      "description": "Giftcard for online tasks",
+      "valueRange": [
+        "sent",
+        "NA (not SPARK)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
