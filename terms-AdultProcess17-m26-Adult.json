@@ -1,0 +1,27 @@
+{
+  "DictionaryID": "8b2448a6-47d5-40be-9790-4b4fa1633f21",
+  "shortName": "Adult Consent Process17-m26",
+  "DerivedFrom": "Adult Consent Process17-m66",
+  "Name": "Adult Consent Process",
+  "Description": "BLAST adult consent form, LRR consent form, optional consent to update the LRR",
+  "title": "Adult Consent Process",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532047049653",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532047049653",
+      "description": "Adult consent form",
+      "valueRange": [
+        "Complete"
+      ],
+      "renderType": "radio",
+      "notes": null
+    }
+  ]
+}
