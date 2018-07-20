@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "7daf46bb-591e-4513-a104-761a077c3dd5",
+  "shortName": "Second scoring33",
+  "DerivedFrom": "",
+  "Name": "Second scoring",
+  "Description": "Second scoring",
+  "title": "Second scoring",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532054903912",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532054903912",
+      "description": "Second scoring",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
