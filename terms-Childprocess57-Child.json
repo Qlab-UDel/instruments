@@ -1,0 +1,83 @@
+{
+  "DictionaryID": "b4fb53b6-0b37-4514-a583-542789ddca61",
+  "shortName": "Child consent process57",
+  "DerivedFrom": "",
+  "Name": "Child consent process",
+  "Description": "Child consent process",
+  "title": "Child consent process",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532059469541",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532059469541",
+      "description": "BLAST parent consent form",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532059497110",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532059497110",
+      "description": "BLAST child assent form ",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532059528308",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532059528308",
+      "description": "LRR consent form",
+      "valueRange": [
+        "declined",
+        "complete",
+        "NA (SPARK)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532060032196",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 4,
+      "dataElementId": 4,
+      "name": "new1532060032196",
+      "description": "LRR update form",
+      "valueRange": [
+        "declined",
+        "complete",
+        "NA (SPARK)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
