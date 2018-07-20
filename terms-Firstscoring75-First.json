@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "4788e6fd-f763-45f1-9930-41a31fdc077d",
+  "shortName": "First scoring75",
+  "DerivedFrom": "",
+  "Name": "First scoring",
+  "Description": "First scoring",
+  "title": "First scoring",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532054869563",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532054869563",
+      "description": "First scoring",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
