@@ -1,0 +1,45 @@
+{
+  "DictionaryID": "a9063d70-e20a-48a6-a86b-1dbf384c3482",
+  "shortName": "LRR identifiable data entry73",
+  "DerivedFrom": "",
+  "Name": "LRR identifiable data entry",
+  "Description": "LRR identifiable data entry\n",
+  "title": "LRR identifiable data entry",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532055133366",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532055133366",
+      "description": "Consent forms",
+      "valueRange": [
+        "uploaded"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532055172063",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532055172063",
+      "description": "Identifiable data",
+      "valueRange": [
+        "entered"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
