@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "bde25789-5dbd-4f79-b14b-22f4fb4a392f",
+  "shortName": "Adult Studies Questionnaire75-m88",
+  "DerivedFrom": "Adult Studies Questionnaire75",
+  "Name": "Adult Studies Questionnaire",
+  "Description": "Adult Studies Questionnaire",
+  "title": "Adult Studies Questionnaire",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532052206718",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532052206718",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "Adult studies questionnaire",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    }
+  ]
+}
