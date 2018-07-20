@@ -1,0 +1,79 @@
+{
+  "DictionaryID": "7267d6eb-3815-4441-b6fe-a77319d9d8e5",
+  "shortName": "Adult online experiment62-m33",
+  "DerivedFrom": "Adult online experiment62",
+  "Name": "Adult online experiment",
+  "Description": "Adult online experiment",
+  "title": "Adult online experiment",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532052602409",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532052602409",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "LSL",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052624326",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532052624326",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "SSL",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052651572",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532052651572",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "TSL",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532052670787",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 4,
+      "dataElementId": 4,
+      "name": "new1532052670787",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "VSL",
+      "valueRange": [
+        "complete"
+      ],
+      "notes": null
+    }
+  ]
+}
