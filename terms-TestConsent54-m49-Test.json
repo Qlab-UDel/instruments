@@ -1,0 +1,45 @@
+{
+  "DictionaryID": "f6f6b346-8d6a-4aaf-9a70-c2e2bfbb9404",
+  "shortName": "Test Adult Consent54-m49",
+  "DerivedFrom": "Test Adult Consent54-m56",
+  "Name": "Test Adult Consent",
+  "Description": "test",
+  "title": "Test Adult Consent",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532047703553",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532047703553",
+      "type": "boolean",
+      "renderType": "radio",
+      "description": "New checkbox",
+      "valueRange": [
+        "test"
+      ],
+      "notes": null
+    },
+    {
+      "id": "new1532047859186",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532047859186",
+      "description": "test wrench then lines",
+      "valueRange": [
+        "test wrench then lines"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
