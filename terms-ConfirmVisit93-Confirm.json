@@ -1,0 +1,64 @@
+{
+  "DictionaryID": "1bbf13c7-3bea-4249-bf84-a4803ef1cf18",
+  "shortName": "Confirm Child MRI Visit93",
+  "DerivedFrom": "",
+  "Name": "Confirm Child MRI Visit",
+  "Description": "Confirm Child MRI Visit",
+  "title": "Confirm Child MRI Visit",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532059252434",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532059252434",
+      "description": "Confirm scanner availability",
+      "valueRange": [
+        "operator confirmed"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532059306715",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532059306715",
+      "description": "MRI confirmation email",
+      "valueRange": [
+        "sent",
+        "NA (SPARK participant; received MRI confirmation with EEG booking)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532059379172",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532059379172",
+      "description": "MRI reminder email",
+      "valueRange": [
+        "sent",
+        "NA (SPARK participant; received MRI confirmation with EEG booking)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
