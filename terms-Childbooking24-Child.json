@@ -1,0 +1,63 @@
+{
+  "DictionaryID": "3c6c42fb-6122-4eb0-aac6-353d8c42f45d",
+  "shortName": "Child MRI booking24",
+  "DerivedFrom": "",
+  "Name": "Child MRI booking",
+  "Description": "Child MRI booking",
+  "title": "Child MRI booking",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532059030069",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532059030069",
+      "description": "Mark appointment time on calendar ",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532059060339",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new1532059060339",
+      "description": "Book scanner room",
+      "valueRange": [
+        "scan"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new1532059088476",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 3,
+      "dataElementId": 3,
+      "name": "new1532059088476",
+      "description": "Send online experiment",
+      "valueRange": [
+        "complete",
+        "NA (SPARK participant; already completed online tasks)"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
