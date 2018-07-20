@@ -1,0 +1,29 @@
+{
+  "DictionaryID": "bf6726d3-f1b7-420e-83af-47a3610220d5",
+  "shortName": "Scan LRR consent forms78",
+  "DerivedFrom": "",
+  "Name": "Scan LRR consent forms",
+  "Description": "Scan LRR consent forms",
+  "title": "Scan LRR consent forms",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532055067748",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532055067748",
+      "description": "Scan LRR consent forms",
+      "valueRange": [
+        "scanned",
+        "not scanned; no LRR consent given"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
