@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "72d39513-7bf0-4b0a-bd81-d896185ee865",
+  "shortName": "Thank you note86",
+  "DerivedFrom": "",
+  "Name": "Thank you note",
+  "Description": "Thank you note\n",
+  "title": "Thank you note",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532055309149",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532055309149",
+      "description": "Thank you note",
+      "valueRange": [
+        "sent"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
