@@ -1,0 +1,43 @@
+{
+  "DictionaryID": "f5331992-4d81-4f80-a573-ce520bcd530a",
+  "shortName": "Auditory EEG task56",
+  "DerivedFrom": "",
+  "Name": "Auditory EEG task",
+  "Description": "Auditory EEG task\n",
+  "title": "Auditory EEG task",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1532052243312",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1532052243312",
+      "description": "Auditory EEG task",
+      "valueRange": [
+        "Auditory EEG task"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    },
+    {
+      "id": "new123",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new123",
+      "description": "Notes",
+      "valueRange": null,
+      "type": "string",
+      "renderType": "text",
+      "notes": null
+    }
+  ]
+}
