@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "",
+  "shortName": "KBIT89-m33",
+  "DerivedFrom": "KBIT89-m34",
+  "Name": "KBIT",
+  "Description": "Kaufman Brief Intelligence Test",
+  "title": "KBIT",
+  "author": "",
+  "fields": [
+    {
+      "id": "new1534195570040",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1534195570040",
+      "description": "KBIT matrices",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
