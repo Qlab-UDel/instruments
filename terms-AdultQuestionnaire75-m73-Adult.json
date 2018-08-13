@@ -1,0 +1,41 @@
+{
+  "DictionaryID": "",
+  "shortName": "Adult Studies Questionnaire75-m73",
+  "DerivedFrom": "Adult Studies Questionnaire75-m96",
+  "Name": "Adult studies questionnaire",
+  "Description": "Adult studies questionnaire",
+  "title": "Adult studies questionnaire",
+  "author": "",
+  "fields": [
+    {
+      "id": "new1534195531420",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1534195531420",
+      "description": "Test",
+      "valueRange": null,
+      "type": "string",
+      "renderType": "text",
+      "notes": null
+    },
+    {
+      "id": "new123",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 2,
+      "dataElementId": 2,
+      "name": "new123",
+      "description": "New field",
+      "valueRange": null,
+      "type": "string",
+      "renderType": "text",
+      "notes": null
+    }
+  ]
+}
