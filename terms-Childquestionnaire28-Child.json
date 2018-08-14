@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "10579ae0-d0de-49ca-9094-e3e9cd15e92e",
+  "shortName": "Child studies questionnaire28",
+  "DerivedFrom": "",
+  "Name": "Child studies questionnaire",
+  "Description": "Child studies questionnaire",
+  "title": "Child studies questionnaire",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1534213209693",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1534213209693",
+      "description": "Questionnaire",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
