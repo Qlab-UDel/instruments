@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "edda8f7a-7bd2-4724-9720-c381e6e24b9b",
+  "shortName": "In-lab sentence recall68",
+  "DerivedFrom": "",
+  "Name": "In-lab sentence recall",
+  "Description": "In-lab sentence recall (repeated task)",
+  "title": "In-lab sentence recall",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1534214486330",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1534214486330",
+      "description": "In-lab sentence recall",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
