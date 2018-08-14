@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "8d757e0b-bd16-462f-8890-68e841328e35",
+  "shortName": "CELF Screener18",
+  "DerivedFrom": "",
+  "Name": "CELF Screener",
+  "Description": "CELF Screener",
+  "title": "CELF Screener",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1534212316076",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1534212316076",
+      "description": "CELF screener",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
