@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "9de0fdb2-ea17-4b1a-9394-63f2ed8795ed",
+  "shortName": "CELF71",
+  "DerivedFrom": "",
+  "Name": "CELF",
+  "Description": "CELF",
+  "title": "CELF",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1534212356536",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1534212356536",
+      "description": "CELF",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
