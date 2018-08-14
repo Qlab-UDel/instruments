@@ -1,0 +1,28 @@
+{
+  "DictionaryID": "765f55fe-6e5d-46be-96b7-6626babab586",
+  "shortName": "SCQ46",
+  "DerivedFrom": "",
+  "Name": "SCQ",
+  "Description": "SCQ",
+  "title": "SCQ",
+  "author": "Qlab-UDel",
+  "fields": [
+    {
+      "id": "new1534214005255",
+      "required": "Recommended",
+      "condition": null,
+      "aliases": null,
+      "filterElement": null,
+      "position": 1,
+      "dataElementId": 1,
+      "name": "new1534214005255",
+      "description": "SCQ",
+      "valueRange": [
+        "complete"
+      ],
+      "type": "boolean",
+      "renderType": "checkbox",
+      "notes": null
+    }
+  ]
+}
